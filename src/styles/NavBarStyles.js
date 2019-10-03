@@ -40,7 +40,7 @@ const styles = theme => ({
     justifyContent: "center"
   },
   inputRoot: {
-    color: "inherit",
+    color: "blue",
     width: "100%"
   },
   inputInput: {
